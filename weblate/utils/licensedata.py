@@ -478,6 +478,12 @@ LICENSES = (
         True,
     ),
     ("CFITSIO", "CFITSIO License", "https://spdx.org/licenses/CFITSIO.html", False),
+    (
+        "check-cvs",
+        "check-cvs License",
+        "https://spdx.org/licenses/check-cvs.html",
+        False,
+    ),
     ("checkmk", "Checkmk License", "https://spdx.org/licenses/checkmk.html", False),
     (
         "ClArtistic",
@@ -1353,6 +1359,12 @@ LICENSES = (
         "HP-1986",
         "Hewlett-Packard 1986 License",
         "https://spdx.org/licenses/HP-1986.html",
+        False,
+    ),
+    (
+        "HP-1989",
+        "Hewlett-Packard 1989 License",
+        "https://spdx.org/licenses/HP-1989.html",
         False,
     ),
     (
@@ -2289,6 +2301,7 @@ LICENSES = (
         "https://spdx.org/licenses/SimPL-2.0.html",
         True,
     ),
+    ("SL", "SL License", "https://spdx.org/licenses/SL.html", False),
     (
         "Sleepycat",
         "Sleepycat License",
@@ -2309,6 +2322,7 @@ LICENSES = (
         "https://spdx.org/licenses/SHL-0.51.html",
         False,
     ),
+    ("Soundex", "Soundex License", "https://spdx.org/licenses/Soundex.html", False),
     (
         "Spencer-86",
         "Spencer License 86",
@@ -2582,6 +2596,7 @@ LICENSES = (
         True,
     ),
     ("Zed", "Zed License", "https://spdx.org/licenses/Zed.html", False),
+    ("Zeeff", "Zeeff License", "https://spdx.org/licenses/Zeeff.html", False),
     ("Zend-2.0", "Zend License v2.0", "https://spdx.org/licenses/Zend-2.0.html", True),
     (
         "Zimbra-1.3",
